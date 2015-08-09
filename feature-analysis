@@ -1,0 +1,28 @@
+=== Note taking
+drawing atio text
+text box
+flow diagram
+text, para formatting
+hyperlinking
+image 
+audio
+table
+video
+attachments
+alarms
+checkboxes
+bullets
+phones
+highlighting
+latex intergration
+spellcheck and grammar
+regex search,
+encoding conversion, 
+rectangular-box-selection
+
+=== reference management software
+fileformat supports (export/ import): bibtex, endnote, medline, mods xml, RIS, docbook, COins, rdf, TEI, rtf, pdf, copac, csa, ISI, SciFinder, Ovid
+Citation styles: APA, Chicago/Turabian, Harvard, MLA, IEEE, BMJ,
+feeds: RSS, Atom
+database connectivty: Arxiv, Citeseer, IEEE xplore, PubMed, ACM, GoogleScholar
+user-specific-permissions, password protection
